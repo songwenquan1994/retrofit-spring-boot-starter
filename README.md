@@ -8,10 +8,6 @@
 </dependency>
 ```
 
-```yaml
-@RetrofitService("norns")
-```
-
 ## YAML
 baseUrl：norns 的调用地址
 ```yaml
