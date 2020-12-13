@@ -30,7 +30,7 @@ spring:
       
 ### Configuration配置类   
 
-Configuration 类需要用RetrofitServiceScan 注解说明endpoint的包路径，endpoint借口类用
+Configuration 类需要用RetrofitServiceScan 注解说明endpoint的包路径，endpoint接口类用
 ```java
  @RetrofitService("service") //标注，与yml的identity对应。
  
